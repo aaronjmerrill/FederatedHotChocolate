@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E68BD361-67A
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{126C0265-065A-4BEC-9EAB-F4ED14C63981}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gateway", "src\api\gateway\gateway.csproj", "{A5F1300F-6C22-4D98-BDAE-517510C78373}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gateway", "src\api\Gateway\Gateway.csproj", "{A5F1300F-6C22-4D98-BDAE-517510C78373}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
