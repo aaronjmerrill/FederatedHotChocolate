@@ -18,10 +18,11 @@
                 "ms-azuretools.vscode-azurefunctions",
                 "ms-azuretools.vscode-bicep",
                 "ms-azuretools.vscode-docker",
-				"ms-dotnettools.csdevkit",
+                "ms-dotnettools.csdevkit",
                 "ms-dotnettools.csharp",
                 "ms-dotnettools.vscode-dotnet-runtime",
-                "ms-vscode.vscode-node-azure-pack"
+                "ms-vscode.vscode-node-azure-pack",
+                "EditorConfig.EditorConfig"
             ]
         }
     },
